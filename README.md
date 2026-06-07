@@ -179,7 +179,7 @@ Caso o ID não exista:
 
 Link do quadro Kanban:
 
-COLE_AQUI_O_LINK_DO_KANBAN
+https://github.com/users/jorge-lherrera/projects/1/views/1
 
 ## Branches utilizadas
 
