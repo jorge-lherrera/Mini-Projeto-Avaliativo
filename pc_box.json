@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "nome": "bulbasaur",
+    "tipos": [
+      "grass",
+      "poison"
+    ],
+    "altura": 7,
+    "peso": 69,
+    "hp": 45,
+    "ataque": 49,
+    "defesa": 49
+  }
+]

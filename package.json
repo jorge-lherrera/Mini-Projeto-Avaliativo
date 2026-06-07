@@ -1,7 +1,7 @@
 {
-  "name": "mini-projeto-avaliativo",
+  "name": "pokedex-typescript-lite",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pokédex TypeScript Lite - consulta de Pokémon na PokeAPI com catálogo local",
   "main": "index.js",
   "scripts": {
     "dev": "tsx src/main.ts",
@@ -10,7 +10,7 @@
   },
 
   "keywords": [],
-  "author": "",
+  "author": "Jorge Herrera",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
